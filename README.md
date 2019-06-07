@@ -12,7 +12,7 @@ Lauch the binary as:
   * ```./interpreteur``` if you want to launch the ```test.sh``` script in the folder.
   * ```./interpreteur myScript.sh``` if you want use your personnal Shell script.
   
-### What it could interpret:
+### What it could interpret
 Commands:
 * ```echo```
 * ```cat```
