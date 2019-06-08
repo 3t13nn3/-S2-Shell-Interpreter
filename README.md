@@ -1,6 +1,6 @@
 # -S2-Shell-Interpreter
 
-This was my first real project in C then it is a quit buggy project and a code not well written, but at this time I was enough proud.
+This was my first real project in C, it was quite a buggy project and a not well written code, but back then, I was proud enough of it.
 
 ### How to use - *Linux Project*
 
