@@ -28,6 +28,6 @@ Conditions:
 Comments:
 * ```#...```
   
-## Authors
+## Author
 
 * **Etienne PENAULT** - *Programmation Impérative I* - Paris VIII
